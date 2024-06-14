@@ -1,0 +1,26 @@
+img{
+    border-radius: 50%;
+    width: 460px;
+    height: 460px;
+    display: inline;
+}
+h1{
+ text-align: center;
+ color: red;
+}
+main h1{
+    text-align: center;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 350%;
+}
+main{
+    border: 460px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+    color: rgba(3, 5, 43, 0.788);
+}
+main   <a href="./index.html">Home</a><br>{
+display:inline
+}

@@ -1,0 +1,24 @@
+nav ul{
+    font-size: 350%;
+    color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:20%;
+}
+main{
+    text-align: center;
+}
+.fa-facebook{
+    color: rgba(9, 9, 161, 0.863);
+}
+.fa-youtube{
+    color: red;
+}
+.fa-instagram{
+    color: rgb(223, 49, 223);
+}
+.fa-twitter{
+    color: rgb(10, 38, 117);
+}
+.fa-linkedin{
+    color: rgba(28, 28, 235, 0.815);
+}
