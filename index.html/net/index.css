@@ -22,3 +22,8 @@ main{
 .fa-linkedin{
     color: rgba(28, 28, 235, 0.815);
 }
+main video{
+    border-radius: 460px;
+}main img{
+    border-radius: 460rcap;
+}
